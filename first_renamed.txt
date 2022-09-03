@@ -1,0 +1,14 @@
+this is version 1 of ProjectTest
+
+adding the content to check op of git diff command
+adding the line again
+
+this line is added to test 'skipping the staging area'
+
+testing gitignore and git rm --cached command
+
+testing again
+
+removed this file from git tracking and changed made to it wont be tracked
+
+started tracking again
